@@ -1,0 +1,13 @@
+.footer{
+    height: auto;
+    background: none;
+    font-family: 'Open Sans Hebrew', serif;
+    display:block;
+    align-items: center;
+    border-top: 2px solid #48FFD5;
+    width: auto;
+}
+.footerTxt{
+    color: #fff;
+    font-size: 25px
+}

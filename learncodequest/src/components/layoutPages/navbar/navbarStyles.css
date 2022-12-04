@@ -1,0 +1,83 @@
+@import url(https://fonts.googleapis.com/earlyaccess/opensanshebrew.css);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.header {
+    margin: 1px auto;
+    width: auto;
+    height: 4rem;
+    background: none;
+    font-family: 'Open Sans Hebrew', serif;
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid #48FFD5;
+}
+
+.header p {
+    padding-left: 5%;
+}
+
+.header div {
+    display: flex;
+    align-items: center;
+    align-content: right;
+    float: right;
+    width: auto;
+    padding-left: 73%;
+    margin-left: 5%;
+}
+
+.header-font{
+    font-size: 20px;
+    color: #48FFD5;
+    line-height: 1.5;
+    text-decoration: none;
+    margin-left: 1%;
+}
+
+.header-entrar {
+    padding: 2% 10% 2% 10%;
+    background: #31B5FF;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+    width: 100px;
+    height: 35px;
+}
+.bttnCriarConta{
+    color: #48FFD5;
+    font-weight: bold;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+    width: 100px;
+    height: auto;
+    text-decoration: none;
+}
+
+.bttnLogout{
+    padding: 2% 10% 2% 10%;
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    width: 100px;
+    height: 35px;
+    background: none;
+    text-decoration: none;
+    color: #48FFD5;
+    margin-left: 55px;
+}
+.img{
+    width: 50px;
+    height: 50px;
+    background-color: #fff;
+    border-radius: 50px 50px 50px 50px;
+}
